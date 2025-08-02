@@ -2,19 +2,6 @@
 <img width="1504" height="1009" alt="image" src="https://github.com/user-attachments/assets/292ac840-a071-4abb-8566-878e029e458a" />
 <img width="1504" height="1009" alt="image" src="https://github.com/user-attachments/assets/fed3a6cd-af07-410f-9660-da316369061a" />
 
-STEP 1: Create a README.md file
-In your root folder my-project/, create a file named README.md.
-
-bash
-Copy
-Edit
-touch README.md
-Or manually create a file in VS Code.
-
-✅ STEP 2: Add This Content to README.md
-markdown
-Copy
-Edit
 # 📝 Full Stack Blog Application
 
 A modern full-stack blog application with user authentication, blog creation, editing, and deletion. Built using **React.js (frontend)** and **Django + PostgreSQL (backend)** with **JWT authentication**.
